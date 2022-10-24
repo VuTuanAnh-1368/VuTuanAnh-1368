@@ -1,5 +1,5 @@
 <h1 align="center">
-  Welcome to HTH's profile!
+  Welcome to Vu Tuan Anh's profile!
   <img src="https://raw.githubusercontent.com/VuTuanAnh-1368/VuTuanAnh-1368/main/gifs/hello.gif" width="32">
 </h1>
 
