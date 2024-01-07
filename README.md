@@ -39,6 +39,9 @@
 <a href="https://github.com/VuTuanAnh-1368/vutuananh.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VuTuanAnh-1368&repo=vutuananh.com&show_owner=true&theme=chartreuse-dark" />
 </a>
+<a href="https://github.com/VuTuanAnh-1368/FitApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VuTuanAnh-1368&repo=FitApp&show_owner=true&theme=chartreuse-dark" />
+</a>
 <a href="https://github.com/VuTuanAnh-1368/NoSpace">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VuTuanAnh-1368&repo=NoSpace&show_owner=true&theme=chartreuse-dark" />
 </a>
