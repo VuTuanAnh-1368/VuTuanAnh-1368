@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://fb.com/VuTuanAnh136"><img src="https://raw.githubusercontent.com/VuTuanAnh-1368/VuTuanAnh-1368/main/images/cover.jpg"></a>
+  <a href="https://fb.com/VuTuanAnh6688"><img src="https://raw.githubusercontent.com/VuTuanAnh-1368/VuTuanAnh-1368/main/images/avtar.jpg"></a>
 </p>
 
 ---
