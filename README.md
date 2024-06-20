@@ -39,9 +39,6 @@
 <a href="https://github.com/VuTuanAnh-1368/FitApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VuTuanAnh-1368&repo=FitApp&show_owner=true&theme=chartreuse-dark" />
 </a>
-<a href="https://github.com/VuTuanAnh-1368/FallDetectionSystem_STM32_ADXL345">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VuTuanAnh-1368&repo=FallDetectionSystem_STM32_ADXL345&show_owner=true&theme=chartreuse-dark" />
-</a>
 <a href="https://github.com/VuTuanAnh-1368/Character_Detector_Yolov5">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VuTuanAnh-1368&repo=Character_Detector_Yolov5&show_owner=true&theme=chartreuse-dark" />
 </a>
