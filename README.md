@@ -7,10 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=50&pause=500&color=F7263E&background=7C34FF00&center=true&vCenter=true&width=900&height=200&lines=%E2%8C%A8+Heloo!!+;%E2%8C%A8++My+name+is+Vu+Tuan+Anh+%E2%99%A5%EF%B8%8F;%E2%8C%A8++I%E2%80%99m+studying+at+UET+-+VNU+">
 </p>
 
-<p align="center">
-  <a href="https://fb.com/VuTuanAnh6688"><img src="https://raw.githubusercontent.com/VuTuanAnh-1368/VuTuanAnh-1368/main/images/avtar.jpg"></a>
-</p>
-
 ---
 
 [![](https://komarev.com/ghpvc/?username=VuTuanAnh-1368&color=brightgreen&style=plastic)](https://github.com/VuTuanAnh-1368)
